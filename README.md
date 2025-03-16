@@ -1,6 +1,6 @@
 # Sanjula (Lakpahana A.G.S) 👋
 
- **3rd Year Computer Engineering Undergraduate** at Faculty of Engineering, University of Ruhuna, Sri Lanka
+ **Final Year Computer Engineering Undergraduate** at Faculty of Engineering, University of Ruhuna, Sri Lanka
 
 - Programming Languages: JavaScript, Java, Python, PHP, Go, Rust, C#, Verilog, VHDL, Assembly, 
 - Web Technologies: HTML5, CSS3, React.js, Angular.js
