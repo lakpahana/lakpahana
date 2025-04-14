@@ -2,9 +2,9 @@
 
  **4th Year Computer Engineering Undergraduate** at Faculty of Engineering, University of Ruhuna, Sri Lanka
 
-- Programming Languages: JavaScript, Java, Python, PHP, Go, Rust, C#, Verilog, VHDL, Assembly, 
-- Web Technologies: HTML5, CSS3, React.js, Angular.js
-- Tools & Frameworks: Visual Studio Code, Visual Studio, Unity, ModelSim, IntelliJ  
+- Programming Languages: JavaScript, Java, Python, PHP, Go, Ballerina ~~Rust, C#, Verilog, VHDL, Assembly~~ 
+- Web Technologies: HTML5, CSS3, React.js, ~~Angular.js~~
+- Tools & Frameworks: Visual Studio Code, ~~Visual Studio, Unity, ModelSim,~~ IntelliJ  
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sanjula_Lakpahana-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakpahana/)](https://www.linkedin.com/in/lakpahana/)
